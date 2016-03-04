@@ -33,7 +33,11 @@ public class MyFragment extends Fragment {
             }
         });
        return  view;
+
    }
+    public void click(){
+
+    }
 
 
 }
